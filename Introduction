@@ -8,6 +8,7 @@ hardware: not necesssary, can be done by Google Colab
 web:kaggle
 
 Different types of functions
-regression:the function outputs a scalar
-
-classification:given options(classes), the function outputs the correct one
+regression:the function outputs a scalar   回归
+classification:given options(classes), the function outputs the correct one   分类
+以上只是机器学习中很小的一部分，更多的是：
+structured learning: create sth. with structure(image, document) 结构化学习
